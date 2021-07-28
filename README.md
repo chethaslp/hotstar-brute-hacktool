@@ -4,7 +4,6 @@ Crack into anyones account using OTP login of Hotstar. (OBSOLETE)
 
 NOTE : This is for educational purpose and this hack-tool will NOT WORK currently.
 You can use this as a model for your works.
-The vulnerability was
 
 ### Principle
 Its works on a known vulnerability of Hotstar which was later resolved.
