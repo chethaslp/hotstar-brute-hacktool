@@ -28,10 +28,10 @@ The same has been described clearly in this [linkedin post.](https://www.linkedi
  <br>
  <p align="center"><img src="screenshots/3.png"></p>
  
- * Paste the field in the code and thats it. (Don't forget to run the code.)
+ * Paste the field in the code and thats it. (Don't forget to run the code ofc. Hehe, I know I'm so funny.)
  
  ### Conclution
- I know this is a bit complicated, and doing all these for something which won't work now is worthless. But I belive that this repo can help other for doing fun stuffs with other sites which may have the same vulnerability. I'm commiting this repo in the belief that the vulnerability in hotstar was fixed already.
+ I know this is a bit complicated, and doing all these for something which won't work now is worthless. But I believe that this repo can help other for doing fun stuffs with other sites which may have the same vulnerability. I'm commiting this repo in the belief that the vulnerability in hotstar was fixed already.
 **Do it at your own Risk.**
 
 ### References
