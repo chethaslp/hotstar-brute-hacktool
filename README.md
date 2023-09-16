@@ -1,6 +1,6 @@
-# Brute Force Hack tool for Hotstar
+# Brute Force Hack tool for Hotstar (OBSOLETE)
 
-Crack into anyones account using OTP login of Hotstar. (OBSOLETE)
+Exploiting a known vulnerability of hotstar.com (OBSOLETE)
 
 NOTE : This is for educational purpose and this hack-tool will NOT WORK currently.
 You can use this as a model for your works.
@@ -18,7 +18,7 @@ The same has been described clearly in this [linkedin post.](https://www.linkedi
 * Use a email or phone number (use your own or use the one you want to hack) and continue.<br>
 <p align="center"><img src="screenshots/2.png" width="300px"></p>
 
-* Make sure that the account has OTP login enabled or this won't work. 😄
+* Make sure that the account has OTP login enabled or this won't work.
 * And when it ask to enter an OTP, you can go really crazy here and enter any OTP of your choice.
 * Now we are getting to the point, you may see that your OTP gets rejected (if you are lucky enough). And you'll also notice that new requests are made in the network tab.
 * Select *register?register-by=phone_otp* (choose the second as in the image) and grab the following field values to use in the code :
@@ -28,7 +28,7 @@ The same has been described clearly in this [linkedin post.](https://www.linkedi
  <br>
  <p align="center"><img src="screenshots/3.png"></p>
  
- * Paste the field in the code and thats it. (Don't forget to run the code ofc. Hehe, I know I'm so funny.)
+ * Paste the field in the code and thats it. (Don't forget to run the code ofc. 👍)
  
  ### Conclution
  I know this is a bit complicated, and doing all these for something which won't work now is worthless. But I believe that this repo can help other for doing fun stuffs with other sites which may have the same vulnerability. I'm commiting this repo in the belief that the vulnerability in hotstar was fixed already.
